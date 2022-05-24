@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @aegilops
+- 🧑🏻‍💻 I work at GitHub, as part of GitHub Advanced Security
+- ⚙️ My focus is CodeQL, dependency security and other code security stuff
