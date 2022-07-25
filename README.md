@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @aegilops
 - 🧑🏻‍💻 I work at GitHub, in Solutions Engineering for GitHub Advanced Security
-- ⚙️ My focus is CodeQL, dependency security and other code security stuff
+- ⚙️ My focus is code scanning, dependency security and secret scanning
