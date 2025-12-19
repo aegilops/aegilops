@@ -4,5 +4,5 @@
 
 ## Programming Languages
 
-- Main: C/C++, Python, JavaScript/TypeScript, Bash/Shell, CodeQL
-- Extras: Perl, Rust, Go, Gremlin, Groovy, Scala, SQL, C#, assembly
+- Main: C/C++, Python, JavaScript/TypeScript, Bash/Shell, CodeQL, Java
+- Extras: Perl, Rust, Go, Gremlin, Groovy, Scala, SQL, C#, assembly, Ruby
