@@ -1,7 +1,6 @@
 ## 👋 Hi, I’m @aegilops
 
-- 🧑🏻‍💻 I work at GitHub, as a Field Security Specialist (technical sales) for GitHub Advanced Security, the GitHub AppSec platform
-- ⚙️ My focus is Static Application Security Testing (SAST)/code scanning, Software Composition Analysis (SCA)/dependency security and secret scanning
+- 🧑🏻‍💻 Ex-GitHub, where I worked as a Field Security Specialist (technical sales) for GitHub Advanced Security, the GitHub AppSec platform
 
 ## Programming Languages
 
