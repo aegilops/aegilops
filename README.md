@@ -1,6 +1,7 @@
-## 👋 Hi, I’m @aegilops
+## 👋 Hi, I’m Paul
 
-- 🧑🏻‍💻 Ex-GitHub, where I worked as a Field Security Specialist (technical sales) for GitHub Advanced Security, the GitHub AppSec platform
+- I work at [XBOW](https://xbow.com/) — the AI-powered penetration testing platform — as a Field Engineer
+- Ex-GitHub/Microsoft, where I worked as a Field Security Specialist (technical sales) for GitHub Advanced Security, the GitHub AppSec platform
 
 ## Programming Languages
 
